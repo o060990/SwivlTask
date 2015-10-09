@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/classes-65a9068fc54f76613edea6105693762a4742b17d.jar" />
+    </item>
+    <item
+        jar="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/classes-5ece5f0a9f1a7a14568f21763dd540a327748dbf.jar" />
+    </item>
+    <item
+        jar="/Users/olegzadvernyak/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/library-1.0.19-f98171db123042c2a739c9dd25c03751ee9db7ed.jar" />
+    </item>
+    <item
+        jar="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-2de288b9d01322a465af404350e722e62a21b4c5.jar" />
+    </item>
+    <item
+        jar="/Users/olegzadvernyak/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/gson-2.3-c8c98366ecdd242df7d1d596c384bc3d06ce53c0.jar" />
+    </item>
+    <item
+        jar="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/classes-cc65bff3350b2141b4e01ac5a07117efcec6434a.jar" />
+    </item>
+    <item
+        jar="/Users/olegzadvernyak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/olegzadvernyak/Documents/SwivlTestTask/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-43d3f19d6d9f8c298ca46f79d5c9ac3be7c4b9ca.jar" />
+    </item>
+
+</items>
